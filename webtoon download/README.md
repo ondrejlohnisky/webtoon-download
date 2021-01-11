@@ -1,4 +1,4 @@
-LINE Webtoon comic downloader
+Webtoon comic downloader
 =============================
 
 This is a set of non-interactive scripts which can parse LINE Webtoon RSS feeds,
@@ -12,6 +12,10 @@ Dependencies
   * Python 3.x
   * lxml (`lxml`)
   * Beautiful Soup (`bs4`)
+  * dominate
+  * BeautifulSoup
+  * re
+  * shutil
 
 
 Compliance with NAVER's terms and conditions
